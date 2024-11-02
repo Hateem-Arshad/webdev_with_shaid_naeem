@@ -1,2 +1,3 @@
-# webdev_with_shaid_naeem
+# Notes
+
  Tutorials series to lean web development through youtube
