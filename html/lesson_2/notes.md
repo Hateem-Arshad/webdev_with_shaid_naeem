@@ -1,8 +1,5 @@
-# Lesson 2
+<link rel="stylesheet" href="notes.css">
 
-HTML was developed by
+# Lesson 2 
 
-$$
-
-$$
-<style> *{ max-width: 90%; margin: auto;} </style>
+HTML was developed by 
