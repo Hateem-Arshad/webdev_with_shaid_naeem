@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="notes.css">
+<link rel="stylesheet" href="../notes.css">
 
 # Lesson 2 
 
