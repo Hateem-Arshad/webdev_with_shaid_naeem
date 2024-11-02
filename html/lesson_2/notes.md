@@ -1,4 +1,3 @@
-
 # Lesson 2
 
 HTML was developed by
