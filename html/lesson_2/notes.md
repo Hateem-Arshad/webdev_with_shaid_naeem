@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="../notes.css">
 
-# Lesson 2 
+# Lesson 2
 
-HTML was developed by 
+HTML was developed by
